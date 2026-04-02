@@ -226,7 +226,7 @@ p{
     gap: 20px;
 }
 
-.lover {
+.attention {
     text-align: center;
     padding: 15px;
     border: 2px solid #333;
@@ -237,7 +237,7 @@ p{
     background: url(hits2.jpg) no-repeat center center/cover;
    
 }
-.reputation{
+.wedonttalkanymore {
     text-align: center;
     background-color: white;
     padding: 15px;
