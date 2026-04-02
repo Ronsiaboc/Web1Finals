@@ -226,7 +226,7 @@ p{
     gap: 20px;
 }
 
-.attention {
+.seeyouagain {
     text-align: center;
     padding: 15px;
     border: 2px solid #333;
@@ -237,7 +237,7 @@ p{
     background: url(hits2.jpg) no-repeat center center/cover;
    
 }
-.wedonttalkanymore {
+.attention {
     text-align: center;
     background-color: white;
     padding: 15px;
@@ -247,7 +247,7 @@ p{
     box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.1);
     background: url(hits1.jpg) no-repeat center center/cover;
 }
-.showgirl {
+.wedonttalkanymore {
     text-align: center;
     background-color: white;
     padding: 15px;
